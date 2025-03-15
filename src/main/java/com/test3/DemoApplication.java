@@ -13,7 +13,7 @@ public class DemoApplication {
 		char y = 'a';
 		float a = 10.3f;
 		boolean isSub = true;  // dev_1
-		var star = "dine";
+    var star = "dine";
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
