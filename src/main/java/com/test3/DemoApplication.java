@@ -11,7 +11,9 @@ public class DemoApplication {
 		int x = 100;
 		boolean isPresent = false;
 		char y = 'a';
-		boolean isSub = true;
+		float a = 10.3f;
+		boolean isSub = true;  // dev_1
+
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
