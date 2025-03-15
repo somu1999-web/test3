@@ -11,7 +11,7 @@ public class DemoApplication {
 		int x = 100;
 		boolean isPresent = false;
 		char y = 'a';
-		float a = 10.3f;
+		float a = 10.3f;  // dev_1
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
